@@ -13,7 +13,7 @@ This folder contains the protocol buffer (protobuf) message definition files and
 
 #### /AlexaGadgetsProtobuf/Utils
 
-This folder contains an example of a single protobuf deinfition and a shell script to compile all of the protobuf definitions for the Alexa Gadgets Toolkit.
+This folder contains an example of a single protobuf definition and a shell script to compile all of the protobuf definitions for the Alexa Gadgets Toolkit.
 
 ### /ConnectionHelpers
 
